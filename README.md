@@ -1,3 +1,8 @@
+## Evolução do projeto
+
+O PetCuida está em desenvolvimento.
+Esta versão contempla o cadastro de animais
+e a geração de manuais personalizados em PDF.
 # PetCuida — MVP
 
 Aplicação web para voluntários registrarem informações de cães acolhidos e gerarem um manual personalizado em PDF para apoiar a adoção responsável.
